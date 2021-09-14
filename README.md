@@ -3,9 +3,8 @@
 
 > This is my first project at microverse to practice gihub workflow 
 
-
-
-It just display a simple hello microverse text
+Using HTML I Will diplay a "hello microverse" text and 
+CSS to style it to yellow color. 
 
 ## Built With
 
